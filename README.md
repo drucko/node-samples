@@ -1,6 +1,6 @@
 # node-samples
 
-The collected and edited samples for my Node.js trainings, workshops and hands-on sessions.
+The edited and commented samples for my Node.js trainings, workshops and hands-on sessions.
 
 If you have any questions or feedback, feel free to contact me using [@goloroden](https://twitter.com/goloroden) on Twitter.
 
