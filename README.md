@@ -10,6 +10,7 @@ The following samples have been included so far:
 
 ### Basics
 
+- [01 Hello Node.js!](https://github.com/goloroden/node-samples/tree/master/01%20hello-nodejs)
 - [02 Creating an http server](https://github.com/goloroden/node-samples/tree/master/02%20creating-an-http-server)
 
 That's it :-)!
