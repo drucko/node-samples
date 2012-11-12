@@ -10,9 +10,9 @@ The following samples have been included so far:
 
 ### Basics
 
-- [01 Hello Node.js!](https://github.com/goloroden/node-samples/tree/master/01%20hello-nodejs)
-- [02 Creating an http server](https://github.com/goloroden/node-samples/tree/master/02%20creating-an-http-server)
-- [03 Using modules](https://github.com/goloroden/node-samples/tree/master/03%20using-modules)
+- [01 Hello Node.js!](https://github.com/goloroden/node-samples/tree/master/basics/01%20hello-nodejs)
+- [02 Creating an http server](https://github.com/goloroden/node-samples/tree/master/basics/02%20creating-an-http-server)
+- [03 Using modules](https://github.com/goloroden/node-samples/tree/master/basics/03%20using-modules)
 
 That's it :-)!
 
