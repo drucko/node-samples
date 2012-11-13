@@ -1,0 +1,15 @@
+{
+  "name": "configuring-express",
+  "version": "0.0.1",
+  "description": "Configuring Express",
+  "author": "Golo Roden <webmaster@goloroden.de> (http://www.goloroden.de)",
+  "main": "app.js",
+  "dependencies": {
+    "express": "3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goloroden/node-samples"
+  },
+  "license": "MIT"
+}

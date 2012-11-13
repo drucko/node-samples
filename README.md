@@ -20,6 +20,7 @@ The following samples have been included so far:
 - [02 Creating middleware for Connect](https://github.com/goloroden/node-samples/tree/master/connect-express/02%20creating-middleware-for-connect)
 - [03 Creating configurable middleware](https://github.com/goloroden/node-samples/tree/master/connect-express/03%20creating-configurable-middleware)
 - [04 Using Express](https://github.com/goloroden/node-samples/tree/master/connect-express/04%20using-express)
+- [05 Configuring Express](https://github.com/goloroden/node-samples/tree/master/connect-express/05%20configuring-express)
 
 That's it :-)!
 
