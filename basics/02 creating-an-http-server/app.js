@@ -5,7 +5,6 @@ var http = require('http');
 // on each incoming request. Using the req and res parameters you
 // have access to the incoming request and the response being sent.
 var server = http.createServer(function (req, res) {
-
   // Send headers to the client.
   res.writeHead(200, {
     'content-type': 'text/html'

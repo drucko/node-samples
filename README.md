@@ -14,6 +14,12 @@ The following samples have been included so far:
 - [02 Creating an http server](https://github.com/goloroden/node-samples/tree/master/basics/02%20creating-an-http-server)
 - [03 Using modules](https://github.com/goloroden/node-samples/tree/master/basics/03%20using-modules)
 
+### Connect and Express
+
+- [01 Using Connect](https://github.com/goloroden/node-samples/tree/master/connect-express/01%20using-connect)
+- [02 Creating middleware for Connect](https://github.com/goloroden/node-samples/tree/master/connect-express/02%20creating-middleware-for-connect)
+- [03 Creating configurable middleware](https://github.com/goloroden/node-samples/tree/master/connect-express/03%20creating-configurable-middleware)
+
 That's it :-)!
 
 ## License

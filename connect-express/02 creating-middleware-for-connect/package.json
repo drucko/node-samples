@@ -1,0 +1,15 @@
+{
+  "name": "creating-middleware-for-connect",
+  "version": "0.0.1",
+  "description": "Creating middleware for Connect",
+  "author": "Golo Roden <webmaster@goloroden.de> (http://www.goloroden.de)",
+  "main": "app.js",
+  "dependencies": {
+    "connect": "2.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goloroden/node-samples"
+  },
+  "license": "MIT"
+}

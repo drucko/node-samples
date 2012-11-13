@@ -1,4 +1,4 @@
-// Import the rectangle module and name it accordingly. When
+// Require the rectangle module and name it accordingly. When
 // importing a module from the file system, its path needs to
 // be specified. Skip the file extension:
 var rectangle = require('./rectangle');
