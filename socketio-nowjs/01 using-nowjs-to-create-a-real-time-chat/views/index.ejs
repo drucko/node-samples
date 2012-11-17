@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <script type="text/javascript" src="/knockout.js"></script>
+    <script type="text/javascript" src="/nowjs/now.js"></script>
+  </head>
+  
+  <body>
+    <h1><%= title %></h1>
+    <p>Welcome to the <%= title %> chat ...</p>
+
+    <form>
+      <input type="text" data-bind="value: message" />
+      <button data-bind="click: send">Send</button>
+    </form>
+
+    <ul data-bind="foreach: messages">
+      <li data-bind="text: message"></li>
+    </ul>
+
+    <script type="text/javascript">
+      var viewmodel = {
+        messages: ko.observableArray(),
+        message: ko.observable(),
+        send: function () {
+          // Distribute the message to the other clients via the
+          // server.
+          now.distribute(this.message());
+
+          // Clear the input field.
+          this.message('');
+        }
+      };
+
+      ko.applyBindings(viewmodel);
+
+      now.show = function (message) {
+        // Add the received message to the list of all messages.
+        viewmodel.messages.push({ message: message });
+      };
+    </script>
+  </body>
+</html>

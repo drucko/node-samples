@@ -1,0 +1,17 @@
+{
+  "name": "using-nowjs-to-create-a-real-time-chat",
+  "version": "0.0.1",
+  "description": "Using Now.js to create a real-time chat",
+  "author": "Golo Roden <webmaster@goloroden.de> (http://www.goloroden.de)",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "0.8.3",
+    "express": "3.0.2",
+    "now": "0.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goloroden/node-samples"
+  },
+  "license": "MIT"
+}

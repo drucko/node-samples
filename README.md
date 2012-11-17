@@ -23,6 +23,10 @@ The following samples have been included so far:
 - [05 Configuring Express](https://github.com/goloroden/node-samples/tree/master/connect-express/05%20configuring-express)
 - [06 Using built-in modules](https://github.com/goloroden/node-samples/tree/master/connect-express/06%20using-built-in-modules)
 
+### Socket.io and Now.js
+
+- [01 Using Now.js to create a real-time chat](https://github.com/goloroden/node-samples/tree/master/socketio-nowjs/01%20using-nowjs-to-create-a-real-time-chat)
+
 That's it :-)!
 
 ## License
