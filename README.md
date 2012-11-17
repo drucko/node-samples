@@ -27,6 +27,8 @@ The following samples have been included so far:
 
 - [01 Using Now.js to create a real-time chat](https://github.com/goloroden/node-samples/tree/master/socketio-nowjs/01%20using-nowjs-to-create-a-real-time-chat)
 
+For more information on Node.js, check out [Node.js & Co.](http://www.amazon.de/dp/389864829X), the first German book on Node.js (which was written by me).
+
 That's it :-)!
 
 ## License
