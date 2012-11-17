@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  font-size: 14px;
+  padding: 50px;
+}
+
+a {
+  color: #05c;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:focus, a:hover {
+  text-decoration: underline;
+}
